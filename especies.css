@@ -1,0 +1,69 @@
+﻿*{
+    box-sizing:border-box;
+}
+/*separacion de cuadros*/
+body {
+    font-family: Verdana;
+    padding: 10px;
+    background-image: url(https://www.iagua.es/sites/default/files/styles/thumbnail-830x455/public/tipos-de-agua.jpg?itok=YPKrVTbC)
+}
+pre {
+    font-size:20px;
+}
+/*es el estilo de toda la hoja*/
+.header {
+    padding: 30px;
+    text-align: center;
+    background-image: url(https://www.voicesofyouth.org/sites/voy/files/images/2019-04/extinct_2.jpg)
+}
+b {
+    color:black;
+}
+/*es el primer cuadro con los links*/
+.header h1{
+    font-size:50px;
+}
+.header h2{
+    font-size:30px;
+}
+/*tamano de las letras en h */
+.header1 {
+    padding: 30px;
+    color:white;
+    text-align: center;
+    background-image: url(https://ep01.epimg.net/elpais/imagenes/2019/03/26/album/1553613970_944651_1553614194_noticia_normal.jpg)
+}
+.navsuperior {
+    overflow: hidden;
+    background-color: #333;
+}
+/*navsuperior son los links barra negra*/
+.navsuperior a{
+    float: left;
+    display:block;
+    color:#f2f2f2;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+}
+/*estilo de los links*/
+img {
+    width: 500px;
+    height:500px;
+    padding: 10px;
+    border: 10px black solid;
+}
+/*marco y tamaño del marco,clor del marco*/
+.footer {
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/K5KGMQ63NBAYVE72DGJZI2KUTA.jpg);
+    padding: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+/*footer pie de paguina*/
+iframe{
+    width:100%;
+    height:800px;
+    border:none;
+}
+/*accesos de segundo plano*/
